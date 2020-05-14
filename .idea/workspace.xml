@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e60eb6b-4a1f-4b4c-9111-905ae4b58b07" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brain_tumor_detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/visualization_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="e#907#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/visualization_utils_new_tumor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10999">
+              <caret line="650" column="23" selection-start-line="650" selection-start-column="12" selection-end-line="650" selection-end-column="23" />
+              <folding>
+                <element signature="e#907#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/config_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#752#761#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>category_index</find>
+      <find>min_score_thresh</find>
+      <find>255</find>
+      <find>Read_Image</find>
+      <find>Tumor_Image</find>
+      <find>vis_util</find>
+      <find>vis_new_tum</find>
+      <find>set_fo</find>
+      <find>count</find>
+      <find>copy</find>
+      <find>app</find>
+      <find>RESPONSE</find>
+      <find>STANDARD_COLORS</find>
+      <find>box_to_color_map</find>
+      <find>class_name</find>
+      <find>color</find>
+      <find>text</find>
+      <find>display_str_list_list</find>
+      <find>display_str_list</find>
+      <find>box_to_display_str_map</find>
+      <find>thickness</find>
+      <find>thickness=2</find>
+      <find>thickness=4</find>
+      <find>Detection_Tumor</find>
+      <find>visualize_boxes_and_labels_on_image_array</find>
+      <find>found</find>
+      <find>Load_Images</find>
+      <find>TUMOR_PERCENT</find>
+      <find>Tumor_Detection</find>
+      <find>display_str</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/label_map_util.py" />
+        <option value="$PROJECT_DIR$/Object_detection_image.py" />
+        <option value="$PROJECT_DIR$/Gui_brain_tumor.py" />
+        <option value="$PROJECT_DIR$/Api_for_detection.py" />
+        <option value="$PROJECT_DIR$/base64.py" />
+        <option value="$PROJECT_DIR$/image_base64.py" />
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/TEST.py" />
+        <option value="$PROJECT_DIR$/app2.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/flask_app.py" />
+        <option value="$PROJECT_DIR$/utils/visualization_utils.py" />
+        <option value="$PROJECT_DIR$/utils/visualization_utils_new_tumor.py" />
+        <option value="$PROJECT_DIR$/brain_tumor_detection.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+              <item name="glioblastoma multiforme (GBM)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+              <item name="IMAGES" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+              <item name="Ivy Glioblastoma Atlas (IvyGAP)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+              <item name="New_Images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brain_td_8_labels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brain_td_8_labels" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CHECK_NEW_RESULTS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bilal Irfan\PycharmProjects\Brain_td_8_labels\IMAGES" />
+      <recent name="C:\Users\Bilal Irfan\PycharmProjects\Brain Tumor Code\IMAGES" />
+      <recent name="C:\Users\Bilal Irfan\PycharmProjects\Brain Tumor Code\No_Tumor" />
+      <recent name="C:\Users\Bilal Irfan\PycharmProjects\Brain Tumor Code\New_Images" />
+      <recent name="C:\Users\Bilal Irfan\PycharmProjects\Brain Tumor Code\Detection_Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.brain_tumor_detection">
+    <configuration name="Object_detection_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Brain Tumor Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object_detection_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Brain Tumor Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bilal Irfan\PycharmProjects\BRAIN_FINAL_VERSION\flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Brain Tumor Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bilal Irfan\PycharmProjects\BRAIN_FINAL_VERSION\flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="brain_tumor_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Brain Tumor Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brain_tumor_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Brain Tumor Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.brain_tumor_detection" />
+        <item itemvalue="Python.flask_app" />
+        <item itemvalue="Python.Object_detection_image" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e60eb6b-4a1f-4b4c-9111-905ae4b58b07" name="Default Changelist" comment="" />
+      <created>1569829873491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569829873491</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.19866072" />
+      <window_info id="Structure" order="1" sideWeight="0.5040917" side_tool="true" weight="0.20272315" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.26841244" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2831424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37315875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28968903" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" visible="true" weight="0.022692889" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.21651785" />
+      <window_info id="Structure" order="1" sideWeight="0.5040917" side_tool="true" weight="0.20272315" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.26841244" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2831424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37315875" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28968903" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" visible="true" weight="0.022692889" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flask_app.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flask_app.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flask_app.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flask_app.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Detection_Images/TUMOR.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/WhatsApp Image 2019-12-11 at 1.09.05 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/WhatsApp Image 2019-12-11 at 1.09.46 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/WhatsApp Image 2019-12-11 at 1.09.41 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/WhatsApp Image 2019-12-11 at 1.09.32 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/WhatsApp Image 2019-12-11 at 1.09.42 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/WhatsApp Image 2019-12-11 at 1.09.32 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/WhatsApp Image 2019-12-11 at 1.09.05 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (3).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (5).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (7).jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download (4).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (8).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (7).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (4).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (9).jpg" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/images (6).jpg" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/images (5).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (2).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/IMAGES/images.jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download.jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download (2).jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download (3).jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/download (6).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (2).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/download (4).jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/images (3).jpg" />
+    <entry file="file://$PROJECT_DIR$/Detection_Images/WhatsApp Image 2019-12-11 at 1.09.05 PM.jpeg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000016.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000016 c.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000016 d.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000016 e.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000016 f.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000184.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000184 e.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/000185 e.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/3016_3_951.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/3014_3_949.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/3013_3_948.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/5607.jpg" />
+    <entry file="file://$PROJECT_DIR$/New_Images/7163.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brain_tumor_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/visualization_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#907#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/visualization_utils_new_tumor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10999">
+          <caret line="650" column="23" selection-start-line="650" selection-start-column="12" selection-end-line="650" selection-end-column="23" />
+          <folding>
+            <element signature="e#907#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/config_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#752#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
